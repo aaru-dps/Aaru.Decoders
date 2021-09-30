@@ -190,10 +190,9 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Blu-ray"/>
+    <Folder Include="Bluray"/>
     <Folder Include="SCSI\"/>
     <Folder Include="ATA\"/>
-    <Folder Include="Blu-ray\"/>
     <Folder Include="DVD\"/>
     <Folder Include="SCSI\MMC\"/>
     <Folder Include="CD\"/>
